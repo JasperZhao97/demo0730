@@ -15,7 +15,6 @@ public class Service {
             new Store("巧克力", 3),
             new Store("包子", 1)};
 
-
     /**
      * 购买东西的方法
      * @param name 购买的商品名称
