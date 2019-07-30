@@ -1,4 +1,4 @@
-package com.Exception;
+package com.exception;
 
 /**
  * 异常处理机制语法结构
@@ -50,7 +50,7 @@ public class ExceptionStructure {
 
         /*try {
             int i = 8;
-        } catch (Exception e) {
+        } catch (exception e) {
             System.out.println();
         }finally {
             System.out.println("异常执行完毕");

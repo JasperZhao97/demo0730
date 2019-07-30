@@ -1,4 +1,4 @@
-package com.work;
+package com.test;
 
 /**
  * @version 1.0.0

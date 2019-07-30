@@ -1,6 +1,7 @@
-package com.Exception;
+package com.exception;
 
 /**
+ *throw的基本使用
  * @version 1.0.0
  * @auther ZhaoLei
  * @creatTime 2019年07月30日  16:47:49
